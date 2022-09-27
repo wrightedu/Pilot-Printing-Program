@@ -11,3 +11,9 @@ This script takes a pilot dropbox submission download in zip format as input and
 
 Usage: `./print-pilot.sh /path/to/pilot/dropbox.zip`
 
+Requirements:
+
+* `pandoc`
+* `pdfunite`
+* `lp`
+* [Linux WSU print drivers from here](https://wsu2uniprint.wright.edu/uniprint/packages/mac/linux/linux_xerox_install.zip)
